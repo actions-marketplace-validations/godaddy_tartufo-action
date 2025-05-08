@@ -1,5 +1,7 @@
 # tartufo-action
 
+> ⚠️ **DEPRECATED**: This GitHub Action has been deprecated and archived. We recommend using alternative secret scanning solutions like [GitHub's built-in secret scanning](https://docs.github.com/en/code-security/secret-scanning/about-secret-scanning)
+
 This GitHub Action scans your repository for secrets using [tartufo](https://github.com/godaddy/tartufo).
 
 The target repository should be checked out before invoking this action. The tartufo.toml file in the checked out branch

@@ -1,6 +1,7 @@
 # action.yml
 name: 'Tartufo Scan'
 description: 'Runs scan-local-repo with default options'
+deprecated: true
 inputs:
   mode:
     description: 'Override Tartufo scan mode'
